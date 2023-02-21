@@ -13,6 +13,7 @@ Medium should be broken into more tasks, while a large would be an epic in of it
 * Research types of colorblindness (S)
 * Make high contrast filter (S)
 * Make saturated filter (S)
-* Make color variations filter (S)
+* Make color variations filter (U)
 * Create component for changing filters (S)
 * Add component to pages (S)
+
