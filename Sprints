@@ -8,6 +8,10 @@ Typically in modern development the sprint duration is 2-3 weeks long instead.
 The goal is to break them into a bunch of small tasks. They can be rated either a small medium or large.
 Medium should be broken into more tasks, while a large would be an epic in of itself.
 
+## Priority
+
+User focus will determine first priority, if they can't use it, it doesn't help.
+
 ## Sprint tasks for Colorblind features
 
 * Research types of colorblindness (S)
