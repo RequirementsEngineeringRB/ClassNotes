@@ -2,6 +2,7 @@
 
 Sprints usually should be 4 weeks long, and each user story is one sprint.
 Typically in modern development the sprint duration is 2-3 weeks long instead.
+
 It's rare that everything is finished on a sprint.
 
 # Tasks
