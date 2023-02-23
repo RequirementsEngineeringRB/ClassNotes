@@ -23,3 +23,8 @@ User focus will determine first priority, if they can't use it, it doesn't help.
 * Create component for changing filters (S)
 * Add component to pages (S)
 
+## Text-To-Speech example
+
+### Sprint Goal
+
+We are working on making it easy for blind people to use our site via text-to-speech.
